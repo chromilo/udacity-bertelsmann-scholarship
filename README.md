@@ -1,6 +1,7 @@
 # udacity-bertelsmann-scholarship
 
 Schedules
+- https://sites.google.com/udacity.com/bertelsmann-tech-scholarship/community
 
 Orientation
 
