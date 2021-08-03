@@ -16,7 +16,7 @@ Here are my graded submissions:
 
 
 ---
-2. Create a Medical Image Annotation Job
+2. Build a Model with Google AutoML
 
 This project was about designing different models to classify the images labelled by annotators. We have to build and train 4 model classifiers using Google AutoML Visio in order to help doctors quickly identify x-ray images as normal or with pneumonia. I had to subscribed to Google Cloud Platform in order to train my 4 models including: 
 
