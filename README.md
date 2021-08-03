@@ -14,9 +14,10 @@ Here are my graded submissions:
 
 [Appen project submission 3](https://drive.google.com/file/d/1j4GOWT4OwTH-e_3jF3uKvjrexXYStDf4/view?usp=sharing)
 
+![image](https://user-images.githubusercontent.com/75153964/127955544-8eab887f-5df3-4eb1-aad8-78e7de7f82f8.png)
 
 
-
+---
 2. Create a Medical Image Annotation Job
 
 This project was about designing different models to classify the images labelled by annotators. We have to build and train 4 model classifiers using Google AutoML Visio in order to help doctors quickly identify x-ray images as normal or with pneumonia. I had to subscribed to Google Cloud Platform in order to train my 4 models including: 
@@ -32,9 +33,10 @@ Here are my graded submissions:
 
 [Google AutoML project submission 2](https://drive.google.com/file/d/1L1aGYuSsUQRqxpL441oRqvxykC1jtLhV/view?usp=sharing)
 
+![image](https://user-images.githubusercontent.com/75153964/127955695-60b3abdf-421c-487e-b5fa-2b59c224024b.png)
 
 
-
+---
 3. Capstone Project: Create an AI Product Business Proposal
 
 This capstone project was about designing a business proposal, describing what it will do, and why/how this helps the business. The following 6 questions below were submitted in the report and had to use confusion matrix, wireframing software like Figma, use cases/personas, choice of labels/features for data, and designing for longevity. The product did not have to be developed as part of the capstone, but the business proposal was needed to simulate submission for approval to stakeholders.
@@ -52,7 +54,11 @@ Here are my graded submissions:
 [Capstone project submission 1](https://drive.google.com/file/d/1BPf1_x3slGt6jGb9KOrQITtZTtXHtbSY/view?usp=sharing)
 [Capstone project submission 1](https://drive.google.com/file/d/1BPf1_x3slGt6jGb9KOrQITtZTtXHtbSY/view?usp=sharing)
 
+![image](https://user-images.githubusercontent.com/75153964/127955602-7d83bb41-83ee-4f55-b857-4c8dda30f7e9.png)
 
-
+---
 And finally, here is my final [graduation certificate](https://confirm.udacity.com/YKACEDTT) from Udacity.
+
+![image](https://user-images.githubusercontent.com/75153964/127955728-ab63b638-f2f8-4bf2-bdd2-29d546f260fd.png)
+
 
