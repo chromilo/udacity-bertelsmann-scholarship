@@ -1,6 +1,6 @@
 # udacity-bertelsmann-scholarship
 
-The scholarship challenge started in December 2020 and ran until March 2021. This was phase 1 which ran for 3 months and was called "Introduction to AI in Business." Those that made it to phase 2 of the scholarship are allowed able to submit the projects for grading until September 2021 and get the full "AI for Product Manager" nanodegree certificate. This phase 2 ran for 6 months but I completed in 2 months because I already completed the three projects in phase 1 before that. There were three projects.
+The Udacity/Bertelsmann scholarship challenge started in December 2020 and ran until March 2021. This was phase 1 lasted 3 months and was called "Introduction to AI in Business". Those that made it to phase 2 of the scholarship are allowed able to submit the projects for grading until September 2021 and get the full "AI for Product Manager" nanodegree certificate. This phase 2 ran for 6 months but I completed in 2 months because I already completed the three projects in phase 1 before that. There were three projects.
 
 1. Create a Medical Image Annotation Job
 
