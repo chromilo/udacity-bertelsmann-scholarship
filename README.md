@@ -22,10 +22,10 @@ Here are my graded submissions:
 
 This project was about designing different models to classify the images labelled by annotators. We have to build and train 4 model classifiers using Google AutoML Visio in order to help doctors quickly identify x-ray images as normal or with pneumonia. I had to subscribed to Google Cloud Platform in order to train my 4 models including: 
 
-Create a binary classifier to detect pneumonia using chest x-rays; 
-Create an unbalanced binary classifier;
-Create a binary classifier with dirty data; and
-Create a three-class model with the classes “normal”, “bacterial pneumonia”, and “viral pneumonia”.
+a. Create a binary classifier to detect pneumonia using chest x-rays; 
+b. Create an unbalanced binary classifier;
+c. Create a binary classifier with dirty data; and
+d. Create a three-class model with the classes “normal”, “bacterial pneumonia”, and “viral pneumonia”.
 
 Here are my graded submissions:
 
