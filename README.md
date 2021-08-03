@@ -4,7 +4,7 @@ The Udacity/Bertelsmann scholarship challenge started in December 2020 and ran u
 
 1. Create a Medical Image Annotation Job
 
-This project was about designing an annotation job on the Appen platform for labeling by external annotators/contractors. The job consists of labeling x-ray images of children lungs that are healthy and those with pneumonia. The intent is to build a classification system to identify healthy or sick cases. For this project, we were graded on the submitted Udacity questionaire and the design of the annotation job. The Appen job was not actually processed as that would incur costs. We designed the questionaire using dataset downloaded from Kaggle and Appen's CML(Custom Markup Language).
+This project was about designing an annotation job on the [Appen](https://appen.com/) platform for labeling by external annotators/contractors. The job consists of labeling x-ray images of children lungs that are healthy and those with pneumonia. The intent is to build a classification system to identify healthy or sick cases. For this project, we were graded on the submitted Udacity questionaire and the design of the annotation job. The Appen job was not actually processed as that would incur costs. We designed the questionaire using dataset downloaded from Kaggle and Appen's CML(Custom Markup Language).
 
 Here are my graded submissions:
 
